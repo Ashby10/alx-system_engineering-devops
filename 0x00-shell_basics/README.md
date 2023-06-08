@@ -7,3 +7,4 @@ ls -na: list all contents even hidden ones in a long format with users id
 mkdir : create a new directory
 mv : move directory or a file
 rm : remove directory or a file
+rm -r : remove recursive directory 
