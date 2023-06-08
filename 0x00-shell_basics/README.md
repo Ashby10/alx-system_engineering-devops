@@ -11,3 +11,4 @@ rm -r : remove recursive directory
 cd - : previous directory
 cd - : previous directory
 file : to print file type
+ln -s: symbolic link
