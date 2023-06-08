@@ -2,3 +2,4 @@ pwd : print the path of the current working directory
 ls : display contents list of my current dir 
 cd ~ : change to the user's directory
 ls -l: list contents in a long format
+ls -la: list all contents even hidden ones in a long format
