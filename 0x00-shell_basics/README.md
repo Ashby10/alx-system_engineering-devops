@@ -13,3 +13,4 @@ cd - : previous directory
 file : to print file type
 ln -s: symbolic link
 copy html files to parent with *.html
+move upper files
