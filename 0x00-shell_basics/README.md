@@ -1,1 +1,1 @@
-this is the readme of the directory
+pwd : print the path of the current working directory
