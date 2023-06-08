@@ -8,3 +8,4 @@ mkdir : create a new directory
 mv : move directory or a file
 rm : remove directory or a file
 rm -r : remove recursive directory 
+cd - : previous directory
