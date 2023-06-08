@@ -5,3 +5,4 @@ ls -l: list contents in a long format
 ls -la: list all contents even hidden ones in a long format
 ls -na: list all contents even hidden ones in a long format with users id
 mkdir : create a new directory
+mv : move directory or a file
