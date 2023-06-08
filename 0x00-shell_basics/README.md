@@ -15,3 +15,4 @@ ln -s: symbolic link
 copy html files to parent with *.html
 move upper files
 clean emacs with rm
+mkdir -p : create a tree
