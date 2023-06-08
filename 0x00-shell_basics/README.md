@@ -16,3 +16,4 @@ copy html files to parent with *.html
 move upper files
 clean emacs with rm
 mkdir -p : create a tree
+mkdir -p : create a tree
